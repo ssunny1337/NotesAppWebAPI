@@ -19,12 +19,13 @@ git remote add origin https://github.com/ssunny1337/NotesAppWebAPI
 git pull origin master
 ```
 
-Откройте проект в любой удобной IDE и запустите его.
+Откройте проект в любой удобной IDE.
 
 В консоли диспетчера пакетов (Package manager console) выполните команду:
 ```
 Update-Database
 ```
+Приложение готово к запуску!
 
 ## Разработчик
 
