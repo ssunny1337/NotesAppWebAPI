@@ -23,4 +23,4 @@ git pull origin master
 
 ## Разработчик
 
-[Сергей Меньшаков](tg://resolve?domain=ssunny1337) — dev
+[Сергей Меньшаков](https://t.me/usernamessunny1337) — dev
