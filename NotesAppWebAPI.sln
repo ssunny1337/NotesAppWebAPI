@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesAppWebAPI", "NotesAppWebAPI\NotesAppWebAPI.csproj", "{676BDB32-389F-480C-862F-A43BD76F5646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesAppWebAPI.Tests", "NotesAppWebAPI.Tests\NotesAppWebAPI.Tests.csproj", "{05175273-97B2-4B29-A0EA-CB55DE1F1DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{676BDB32-389F-480C-862F-A43BD76F5646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676BDB32-389F-480C-862F-A43BD76F5646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676BDB32-389F-480C-862F-A43BD76F5646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676BDB32-389F-480C-862F-A43BD76F5646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05175273-97B2-4B29-A0EA-CB55DE1F1DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05175273-97B2-4B29-A0EA-CB55DE1F1DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05175273-97B2-4B29-A0EA-CB55DE1F1DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05175273-97B2-4B29-A0EA-CB55DE1F1DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
