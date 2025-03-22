@@ -21,6 +21,11 @@ git pull origin master
 
 Откройте проект в любой удобной IDE и запустите его.
 
+В консоли диспетчера пакетов (Package manager console) выполните команду:
+```
+Update-Database
+```
+
 ## Разработчик
 
 [Сергей Меньшаков](https://t.me/ssunny1337) — dev
